@@ -1,0 +1,11 @@
+C:\Users\candi\source\repos\HW5_30\HW5_30\bin\Debug\netcoreapp2.1\HW5_30.deps.json
+C:\Users\candi\source\repos\HW5_30\HW5_30\bin\Debug\netcoreapp2.1\HW5_30.runtimeconfig.json
+C:\Users\candi\source\repos\HW5_30\HW5_30\bin\Debug\netcoreapp2.1\HW5_30.runtimeconfig.dev.json
+C:\Users\candi\source\repos\HW5_30\HW5_30\bin\Debug\netcoreapp2.1\HW5_30.dll
+C:\Users\candi\source\repos\HW5_30\HW5_30\bin\Debug\netcoreapp2.1\HW5_30.pdb
+C:\Users\candi\source\repos\HW5_30\HW5_30\obj\Debug\netcoreapp2.1\HW5_30.csprojAssemblyReference.cache
+C:\Users\candi\source\repos\HW5_30\HW5_30\obj\Debug\netcoreapp2.1\HW5_30.csproj.CoreCompileInputs.cache
+C:\Users\candi\source\repos\HW5_30\HW5_30\obj\Debug\netcoreapp2.1\HW5_30.AssemblyInfoInputs.cache
+C:\Users\candi\source\repos\HW5_30\HW5_30\obj\Debug\netcoreapp2.1\HW5_30.AssemblyInfo.cs
+C:\Users\candi\source\repos\HW5_30\HW5_30\obj\Debug\netcoreapp2.1\HW5_30.dll
+C:\Users\candi\source\repos\HW5_30\HW5_30\obj\Debug\netcoreapp2.1\HW5_30.pdb
